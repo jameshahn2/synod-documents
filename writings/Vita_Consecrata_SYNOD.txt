@@ -223,7 +223,7 @@ and love.
 During these years of renewal, the consecrated life, like other ways of life in the Church, has gone
 through a difficult and trying period. It has been a period full of hopes, new experiments and
 proposals aimed at giving fresh vigour to the profession of the evangelical counsels. But it has
-also been a time of tension and struggle, in which well-meaning endeavours have not always met
+also been a time of tension and struggle, in which well-meaning endeavors have not always met
 with positive results.The difficulties however must not lead to discouragement. Rather, we need to
 commit ourselves with fresh enthusiasm, for the Church needs the spiritual and apostolic
 contribution of a renewed and revitalized consecrated life. In this Post-Synodal Exhortation I wish
@@ -276,7 +276,7 @@ erant, continuo Petrus ... optimum sibi iudicavit in hoc semper esse" (Ad Fratre
 for the Transfiguration is not only the revelation of Christ's glory but also a preparation for facing
 Christ's Cross. It involves both "going up the mountain" and "coming down the mountain". The
 disciples who have enjoyed this intimacy with the Master, surrounded for a moment by the
-splendour of the Trinitarian life and of the communion of saints, and as it were caught up in the
+splendor of the Trinitarian life and of the communion of saints, and as it were caught up in the
 horizon of eternity, are immediately brought back to daily reality, where they see "Jesus only", in
 the lowliness of his human nature, and are invited to return to the valley, to share with him the toil
 of God's plan and to set off courageously on the way of the Cross.
@@ -309,7 +309,7 @@ bespeak the Christocentric orientation of the whole Christian life. But they als
 the radical nature of the vocation to the consecrated life: how good it is for us to be with you, to
 devote ourselves to you, to make you the one focus of our lives! Truly those who have been given
 9
-the grace of this special communion of love with Christ feel as it were caught up in his splendour:
+the grace of this special communion of love with Christ feel as it were caught up in his splendor:
 he is "the fairest of the sons of men" (Ps 45:2), the One beyond compare.
 "This is my beloved Son": listen to him!
 16. The three disciples caught up in ecstasy hear the Father's call to listen to Christ, to place all
@@ -326,7 +326,7 @@ he is the Alpha and the Omega of the world, the foundation and measure of the va
 created things. Sacred ministers, for their part, are living images of Christ the Head and Shepherd
 who guides his people during this time of "already and not yet", as they await his coming in glory.
 It is the duty of the consecrated life to show that the Incarnate Son of God is the eschatological
-goal towards which all things tend, the splendour before which every other light pales, and the
+goal towards which all things tend, the splendor before which every other light pales, and the
 infinite beauty which alone can fully satisfy the human heart. In the consecrated life, then, it is not
 only a matter of following Christ with one's whole heart, of loving him "more than father or mother,
 more than son or daughter" (cf. Mt 10:37) — for this is required of every disciple — but of living
@@ -409,7 +409,7 @@ the reflection of the divine goodness. Those who by the power of the Holy Spirit
 progressively into full configuration to Christ reflect in themselves a ray of the unapproachable
 light. During their earthly pilgrimage, they press on towards the inexhaustible Source of light. The
 consecrated life thus becomes a particularly profound expression of the Church as the Bride who,
-prompted by the Spirit to imitate her Spouse, stands before him "in splendour, without spot or
+prompted by the Spirit to imitate her Spouse, stands before him "in splendor, without spot or
 wrinkle or any such thing, that she might be holy and without blemish" (Eph 5:27).The same Spirit,
 far from removing from the life of humanity those whom the Father has called, puts them at the
 service of their brothers and sisters in accordance with their particular state of life, and inspires
@@ -431,7 +431,7 @@ words as by the eloquent language of a transfigured life, capable of amazing the
 people's astonishment they respond by proclaiming the wonders of grace accomplished by the
 Lord in those whom he loves. To the degree that consecrated persons let themselves be guided
 by the Spirit to the heights of perfection they can exclaim: "I see the beauty of your grace, I
-contemplate its radiance, I reflect its light; I am caught up in its ineffable splendour; I am taken
+contemplate its radiance, I reflect its light; I am caught up in its ineffable splendor; I am taken
 outside myself as I think of myself; I see how I was and what I have become. O wonder! I am
 vigilant, I am full of respect for myself, of reverence and of fear, as I would be were I before you; I
 do not know what to do, I am seized by fear, I do not know where to sit, where to go, where to put
@@ -527,7 +527,7 @@ earth; beautiful in the womb, beautiful in his parents' arms, beautiful in his m
 sufferings; beautiful in inviting to life, beautiful in not worrying about death, beautiful in giving up
 his life and beautiful in taking it up again; he is beautiful on the Cross, beautiful in the tomb,
 beautiful in heaven. Listen to the song with understanding, and let not the weakness of the flesh
-distract your eyes from the splendour of his beauty."The consecrated life reflects the splendour of
+distract your eyes from the splendor of his beauty."The consecrated life reflects the splendor of
 this love because, by its fidelity to the mystery of the Cross, it confesses that it believes and lives
 by the love of the Father, Son and Holy Spirit. In this way it helps the Church to remain aware that
 the Cross is the superabundance of God's love poured out upon this world, and that it is the great
@@ -636,7 +636,7 @@ initiative. At the same time, having given her assent to the divine Word, made f
 the model of the acceptance of grace by human creatures. Having lived with Jesus and Joseph in
 the hidden years of Nazareth, and present at her Son's side at crucial moments of his public life,
 the Blessed Virgin teaches unconditional discipleship and diligent service. In Mary, "the temple of
-the Holy Spirit,"all the splendour of the new creation shines forth. Consecrated life looks to her as
+the Holy Spirit,"all the splendor of the new creation shines forth. Consecrated life looks to her as
 the sublime model of consecration to the Father, union with the Son and openness to the Spirit, in
 the knowledge that acceptance of the "virginal and humble life"of Christ also means imitation of
 Mary's way of life.In the Blessed Virgin Mary, consecrated persons also find a Mother who is
@@ -1621,7 +1621,7 @@ discouragement or to the temptation to practise lax and unwise recruitment. The 
 vocations should increasingly express a joint commitment of the whole Church.It calls for the
 active collaboration of pastors, religious, families and teachers, as required in something which
 forms an integral part of the overall pastoral plan of every particular Church. In every Diocese
-there should be this common endeavour, which coordinates and promotes the efforts of everyone,
+there should be this common endeavor, which coordinates and promotes the efforts of everyone,
 not jeopardizing, but rather supporting, the vocational activity of each Institute.he effective
 cooperation of the whole People of God, with the support of Providence, cannot but give rise to an
 abundance of divine gifts. Christian solidarity should abound in meeting the needs of vocational
@@ -2121,7 +2121,7 @@ or other of the needs of the poor. But even when such a purpose was not the dete
 concern and care for the needy — expressed in prayer, assistance and hospitality — was always
 a normal part of every form of the consecrated life, even of the contemplative life. And how could it
 be otherwise, since the Christ encountered in contemplation is the same who lives and suffers in
-the poor? In this sense, the history of the consecrated life is rich with marvellous and sometimes
+the poor? In this sense, the history of the consecrated life is rich with marvelous and sometimes
 ingenious examples. Saint Paulinus of Nola, after distributing his belongings to the poor in order to
 consecrate himself fully to God, built the cells of his monastery above a hospice for the poor. He
 rejoiced at the thought of this singular "exchange of gifts": the poor, whom he helped,
@@ -2157,7 +2157,7 @@ own through the specific charism of the Cross, by means of their prayer and thei
 word and deed.oreover, the Church reminds consecrated men and women that a part of their
 mission is to evangelize the health-care centres in which they work, striving to spread the light of
 Gospel values to the way of living, suffering and dying of the people of our day. They should
-endeavour to make the practice of medicine more human, and increase their knowledge of
+endeavor to make the practice of medicine more human, and increase their knowledge of
 bioethics at the service of the Gospel of life. Above all therefore they should foster respect for the
 person and for human life from conception to its natural end, in full conformity with the moral
 teaching of the Church.For this purpose they should set up centres of formationand cooperate
@@ -2214,11 +2214,11 @@ while engaged in missionary activity, in action on behalf of the poor, in assist
 marginalized; yet they lived and continue to live their consecration in prolonged and heroic
 suffering, and often with the shedding of their blood, being perfectly configured to the Crucified
 Lord. The Church has already officially recognized the holiness of some of these men and women,
-honouring them as martyrs for Christ. They enlighten us by their example, they intercede that we
+honoring them as martyrs for Christ. They enlighten us by their example, they intercede that we
 may be faithful, and they await us in glory.
 There is a widespread desire that the memory of so many witnesses to the faith will remain in the
 consciousness of the Church as an invitation to celebrate and imitate them. The Institutes of
-Consecrated Life and the Societies of Apostolic Life can contribute to this endeavour by gathering
+Consecrated Life and the Societies of Apostolic Life can contribute to this endeavor by gathering
 the names of all those consecrated persons who deserve to be inscribed in the Martyrology of the
 twentieth century, and by compiling testimonies about them.
 The major challenges facing the consecrated life
@@ -2723,7 +2723,7 @@ consecrated persons, that the world may be made more peaceful and able to welcom
 in him, all his sons and daughters.
 To families
 107. I address you, Christian families. Parents, give thanks to the Lord if he has called one of your
-children to the consecrated life. It is to be considered a great honour — as it always has been —
+children to the consecrated life. It is to be considered a great honor — as it always has been —
 that the Lord should look upon a family and choose to invite one of its members to set out on the
 path of the evangelical counsels! Cherish the desire to give the Lord one of your children so that
 God's love can spread in the world. What fruit of conjugal love could be more beautiful than this?
